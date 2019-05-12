@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: eliminacja zagrożeń Spectre jest włączona, ale nie można odnaleźć bibliotek z eliminacją łagodzeń Spectre. Upewnij się, że obciążenie programu Visual Studio zawiera biblioteki z eliminacją zagrożeń Spectre. Zobacz https://aka.ms/Ofhn4c, aby uzyskać więcej informacji.
+  Operations.cpp
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(385): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(393): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(401): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(409): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(417): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(425): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(531): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(542): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(554): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(567): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(582): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(599): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(614): warning C4101: "buf": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(1393): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(1404): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sylwester\source\repos\sbd2\sbd2\operations.cpp(1370): warning C4715: "Operations::keyExists”: niewszystkie ścieżki kodu zwracają wartość
+  SBD2.vcxproj -> C:\Users\SYLWESTER\source\repos\SBD2\Debug\SBD2.exe
